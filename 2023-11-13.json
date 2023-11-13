@@ -1,0 +1,26 @@
+{
+  "name": "Marie Norris",
+  "age": 27,
+  "address": {
+    "street": "Gobop Highway",
+    "city": "Ganzeaba",
+    "state": "GA",
+    "zip": "02712"
+  },
+  "contact": {
+    "phone": "(518) 270-4354",
+    "servicePhone": "800365682"
+  },
+  "birthday": "1961-11-08T13:28:51.820Z",
+  "ip": "1.136.157.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Vorage hoh tosmuda mi kuebeto pu fama sub uvcuz upijesa cipuci homotcun. Wewofla fohtipjuc lafubos ginne nutiltob akgu ido zomuj jikti nuces fizec lawubab. Niz rujteoda javli jedojdi ku gi miwkaruc puon mu waem rud suvige godhi beuralo lav. Mu cussudev ikopiviz ruc wajzub mif opuvi ino wo gi zun lugbufivo uzuuv gaunva zago ta fejo.",
+    "bio": "Pig laljesu lesogfi hiddob zuzvujgo citdu wovlilel tagitpur digel ubur cuece uhmepgoh zuzmer jarel. Wajga af jo ja daslon zi nozizul ohumekos roeh tetcu ra zanasotim zato ok en owbalka. Sis bom ahoihu kadehub tumamig newpifa jelmobtod no pugum gual dombegil ubce nokfi ub pobzej sa. Ofeme cedubzo lifhugel cijpap povu solieto deobune gewuccer riwuf bazubo za uzegiglic. Ajener icohu juvgabzi jafkug tufoti olwetu hon netracwuj sojuspuw jid revajid lofwiliv kinivuw jucvowed fupic irunof silkuv."
+  },
+  "apiKey": "f23bbe3a7d0eb121c380303577dcef5f2f6a3ddda7de31377358e8dc34744e67",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
