@@ -1,0 +1,26 @@
+{
+  "name": "Sam Welch",
+  "age": 28,
+  "address": {
+    "street": "Ilgel View",
+    "city": "Etesewmoz",
+    "state": "HI",
+    "zip": "89564"
+  },
+  "contact": {
+    "phone": "(418) 810-6144",
+    "servicePhone": "800761729"
+  },
+  "birthday": "1976-04-01T05:58:27.631Z",
+  "ip": "57.172.2.169",
+  "foo": "bar",
+  "profile": {
+    "about": "Biwke fofu tana gesez ofirane pimoozi wawoliwe huudsid ifeetiopo kesgofe hifpozdu esaape vaj barolwah. Buktaw getkerun abi uda cu wu nifob ope fakut ritfaccu nekcew taos. Ceh unri si zemabaw nobjaru dek kik ko ked penege ne vejgi cah ba. Pacipo etpif ijucehko gafiaf sa hiz amopu alture italuza didaduv mig je hipiwja zes kezef sul fu labze. Di fonogja rapzib miduhjih huiw cifucu udos cobozo sa nuc besuzoren zassid kec.",
+    "bio": "At ro wabiz kambumon sedzanuw hijzug ulo naafa jodjata zuso hepipih utu defarrof. Cizvune poam facoh kiv efzawel ezuuhi bafva ozugog jejpe degoze ofi tibuguj vedlovi atoriuf ovo id. Cowpuhe nioke unewu waztirum ci re matola gacerin so gon viavifac kizi. Vohkeco nife rogzo cauvvu cugbesiz pedokih dulumel olupatruj izeddo ki zo izkejo womlizwet ukuhig tov lowo tulho. Deguci kicusdun kipe asa arlijbal lu ero pup tisatil sef wurcemi dusiz peejnar no ofmin ne fejro ve. Mucihwub vu mugonu jasawij jiwijno juphuge uknibgah fozmov jenof wen miruv fi."
+  },
+  "apiKey": "40e1f6b612607adb148e2775b132a1401010b1bf13db0f1067bf3b05c91f4eee",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
