@@ -1,0 +1,26 @@
+{
+  "name": "Eugene Black",
+  "age": 65,
+  "address": {
+    "street": "Kazze Manor",
+    "city": "Tukasvav",
+    "state": "LA",
+    "zip": "19073"
+  },
+  "contact": {
+    "phone": "(748) 895-1240",
+    "servicePhone": "800791341"
+  },
+  "birthday": "1989-10-20T16:06:48.868Z",
+  "ip": "46.49.24.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Lanubu ti ed poof hebwipnib morezbe diw bu ruvawewa lig mevakafo pu kenkah ci fenzeb okede ho. Sipu niw niirowi webebaw luhjitvu si dikib wo dinnet susu suveofa hauztu ife rej. Nab mikewkah vogoro utihzo kuregon tu ruusiin bustuhif ulsukgar giafceg kojgil zesbiogo onmip atuikde uroasnad. Az fiare jefu fu ma etuzut eki gidbo lobga denzabav membamlab gukizoek bevi ulogihuz cenudret. Tas leigi tovowu naf cegwo nafiruh fipoko bectuzi ti fan ju fol.",
+    "bio": "Kuwpe pocjenoh agu ebu akin momwi rottuzmo cepira zizupih ero tahhueci gehadema alaz. Ec pomfepter fapvej pipcakgi me he vir gif ni wawod difcaon bavrus. Pu uj puziva vir ezew humcosba forutu bevmide hud pergap censihu fajewuw zini omipu zu mu tirme."
+  },
+  "apiKey": "b67e26a68d69975543ebafe8e8e1c861a27c256fd512e973422f4486d71b59f1",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
