@@ -1,0 +1,26 @@
+{
+  "name": "Garrett Palmer",
+  "age": 26,
+  "address": {
+    "street": "Wetzul Junction",
+    "city": "Votear",
+    "state": "WV",
+    "zip": "28072"
+  },
+  "contact": {
+    "phone": "(209) 995-6254",
+    "servicePhone": "800737451"
+  },
+  "birthday": "2000-05-26T07:26:43.188Z",
+  "ip": "117.147.152.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Munumud dumvub uka hi gooz ochahgos pizvo zozveg tiwvuwciv ur li vejog luwo lu mi sihuj ekavob te. Imuijvif nad bol cub litkakik ni hu fibiugo moz mozboz vip odwetwa. Iwevuh ki zegep ta zapolud galuove fa vadojtez ad deb irtedsak hota vo. Gitura eg durvaeh vanjanop arebo loz ege lop cuzezagu uz biruik re ocgoci nus vehafkid ocu oki. Jiztivmo vo igjo buvez zip hu zoc lacojeh cah pevtashis iri temnar. Biprapnuk re mi gogopi amu tuzsi wovcu gil hi imuna ap cimco lew ijaoz tu.",
+    "bio": "Bunef nomatem av bopkuwomi usojeuje sunin cakdi uzfoworo ez zetkolo soh vipafov nezbuptu lu kamra iko sipef reikdi. Da lofanluv fugo vuzoro finhadte tovuvoja uc cilwihus ogige vu rana bip os hi. Uhezuje ojo ririctu daoj fibajle jev duhicej pedre oba dabsamu hudot gumi puv ekace umzipam. Libucne jon gag luganol bib fovcijede joosize kod pureb timcig sefu gabi te."
+  },
+  "apiKey": "facf7b23e81474fec69a3a88f7d0a4de78c42de72f9adb69920a2d2f9a42a90b",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
