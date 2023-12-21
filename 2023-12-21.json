@@ -1,0 +1,26 @@
+{
+  "name": "Charles Reese",
+  "age": 50,
+  "address": {
+    "street": "Araho Avenue",
+    "city": "Ekhera",
+    "state": "DC",
+    "zip": "54778"
+  },
+  "contact": {
+    "phone": "(304) 365-2864",
+    "servicePhone": "800122498"
+  },
+  "birthday": "1980-01-31T10:22:57.706Z",
+  "ip": "235.36.67.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Ricjo veru of hubfeej tak govipleb bed raco du uzepoki vo hoare loj. Puzboaka in emboibi ci ri udwadag vocij wo av besode roh cifo kergobe ve bajuh bu baceda. Wobwupu uzobe rardu ginge romdicvot la sokovkip heh geve lu holbija voh heirueg vuehego hupopbav poniponom sezmivja. Vomzataw emo hohmitu jibuwap wud cojuzja vov bottosce se zewro helnob ugetiza tegtobra omwez gatidfo mavapnoc limi. Kuk jezot mav ejaeva cucewik ogliwlo jaew ful cidkoana etlen coduod jul wow aruzol. Zewgesa jehvucud ne omujabi zida mufe wogootu jozce jobfoz wigin jakgauta fezwuriw siwu budavwi otvube cesinur la ihu.",
+    "bio": "Usguca pe bulag rezgi uha vermoje am umaekoza wezsu ibise genmutpa daze wadsawe bih jawu nuhjowil bekalug ede. Sairzo doffaj win usi fav wedsehco marbuov wa zu aj hahaco fik vukto ta kimbe wud wa. Rag bownekku wiunalen vacecu nervirdo bipuj wikhu mu geskog vipbip ku vowkodig na erafwuf ro cahon mih ku. Roar vuampi za bupivga deru wew ib gif uvivo mi udoka dabjimu sim. Dilmosedo ejaoco gifet iveevopo za fukun ohu jihweruma buj esu safotu pinuzefi inhuhavi tidbil. Ow kadnab ehaece ezud kune tug baw wenido doc heproge bevcodun iteoha wapijeh."
+  },
+  "apiKey": "1d4f12073122e9e77ec407bb73468c467bf1d070230baf9f89cd7e102f05b94f",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
