@@ -1,0 +1,26 @@
+{
+  "name": "Ricardo Thompson",
+  "age": 27,
+  "address": {
+    "street": "Vilhan Junction",
+    "city": "Lapfaal",
+    "state": "MD",
+    "zip": "44191"
+  },
+  "contact": {
+    "phone": "(773) 260-4188",
+    "servicePhone": "800419448"
+  },
+  "birthday": "1993-03-13T18:04:21.870Z",
+  "ip": "224.62.196.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Algon cat milo puf sitovnam jisafez reopoeji daf zicev tin ikzutca wogi ru ferok lametib idati. Ewuonko higohus tijipuubu vo akuva si jiaffi wol wu rube cop wimociri wushop. Luhkezic jopoveji ob hej jabvagok opgu nepmu ikover gavor jod jeoc efo gumve suz. Wu wupiz pu sowiwoc nijbiema talajis jaoniset po mesnew zutcozno luthowwe fog.",
+    "bio": "Afta wuvjefuv cihondad rafvolluj dikig ikefada se dehogic sihbo nul fibdodtog zecij kagur cohusra iw lakwogdu ijcofdac. Wud ezafor uc nelzin wabapgi ica pigoscuw to bi dafusva ribjujura in elebufek co ug un ba wuv. Ursodo garum naratohi vicesfa bicu gauhiota jiikefop lorago opiwonob wiarta porat jawjitla vofejifet dezemu aleper pinit ijisi."
+  },
+  "apiKey": "8112d693e5e0656a124847e537636ed6a86821d2c56abb3aee171024d64db22c",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
