@@ -1,0 +1,26 @@
+{
+  "name": "Eva Long",
+  "age": 51,
+  "address": {
+    "street": "Wedah Ridge",
+    "city": "Nuhomhi",
+    "state": "MI",
+    "zip": "39112"
+  },
+  "contact": {
+    "phone": "(574) 498-7314",
+    "servicePhone": "800138924"
+  },
+  "birthday": "1966-06-23T19:10:42.324Z",
+  "ip": "180.43.106.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Agkiz fopiruup givilzaj mokpa vufuzfuj nug rifdavu bafbat tokombor seluvi wopafka rotib culujez. Fuk hov am cavolma loh hejnizip citoilu asiafumi vubuun fuat je befmim wukocu kawsi hir tibecav. Wobvi duvcic sargen alikiwev huc ti ubomawobe ejtot inokjif ivumicopu ude zut. Fizugsiw huobul onipikuj varimlup vofo folzancu ne aru fazazku nafefgel sezgibo gapelbed ti zogup.",
+    "bio": "Is gef peokje cebu dito va la fidime medef celcaru mivos ol moj be. Joah carekles uheni posoc cov ziscek zaho defagci dejtuslim pucdenwe kopzoci um repsuvoh. Ehugiga pewimun kenor ohugej sa ewiho arobano sevife rig mafofodu wusat muaterug hecgo demaizi ko."
+  },
+  "apiKey": "16e5640d6074a15ebc7687eb2e85580256431d64b5512af8aa5cbd211bac43e1",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
