@@ -1,0 +1,26 @@
+{
+  "name": "Ellen Burns",
+  "age": 49,
+  "address": {
+    "street": "Odode Pike",
+    "city": "Ivumolcus",
+    "state": "GA",
+    "zip": "83784"
+  },
+  "contact": {
+    "phone": "(809) 424-9563",
+    "servicePhone": "800166788"
+  },
+  "birthday": "1978-08-13T13:02:13.618Z",
+  "ip": "113.247.21.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Fiso vo kusbi gomop hirka wed oterijo votowifa woicjow wabucug ja je litiimo varowec bu. Si nacurak afsil aw tef fi iwo ovi guc ginip winekow jejes obnut dalcu uriuhe vi fev. Dovafuk vusig pimetjiv kijiho vipce bakvo ma re vaglob cofduzat mevossip womkah wavbef bikjelem.",
+    "bio": "Ku vo temu itlila ru bufnelmim pim ohu fow biadaguz wok weboznur. Juposi nebaz zuvmun et bufa kajel wod mowvov cogdiwo jerdi le vol sijsun bocel luvtosheb. Conoba eparo tohfem tok jiat capte etle mawoh hi jup ga bida goj bobnow. Gosavjis gu minliwsa ev fujuki do copha os jovi huktu zih uk."
+  },
+  "apiKey": "111569f55332b579f297bafe72ad7b596669cd6051aa23ad19f0d10a2a6390ec",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
