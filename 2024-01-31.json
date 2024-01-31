@@ -1,0 +1,26 @@
+{
+  "name": "Max Payne",
+  "age": 60,
+  "address": {
+    "street": "Sotbap Place",
+    "city": "Esduopa",
+    "state": "MI",
+    "zip": "06672"
+  },
+  "contact": {
+    "phone": "(461) 811-4654",
+    "servicePhone": "800828751"
+  },
+  "birthday": "1995-03-02T18:30:56.230Z",
+  "ip": "158.19.198.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Itikasa roroc apu ced si lukadpo sevdaw wit wihdawbi sitgi not aw sasi volvemus setleje sorenuw ik. Jaspido hetoic ki ga uk we deb lisura tebzuzi gaorila vokvaw saih can. Abukazfor tunobpa ehueczo zuf zis noguzata bekzo epjeg mog bowtic edu ito oruhu ubhukos at vit iculaato at.",
+    "bio": "Cetcug mu iwwewci odsazto alle ot kis zaleabo cemara ma mifjo mivi. Begep lausuca owoihola pid cijicu vabuk vi vejakaf veb mocwipa le subhaw ewe upawokzet watzo duphir tof. Wabuv gursion wihdelvah gewaro iniih idi cogatuk wud noozurec zeten fi zup lupbel caavopot."
+  },
+  "apiKey": "ce8b3b0acc2063be6a9a1bdf0de87198c10f786b47a5b10b0a2ee554c0d3b415",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
