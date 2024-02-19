@@ -1,0 +1,26 @@
+{
+  "name": "Myrtle Lee",
+  "age": 45,
+  "address": {
+    "street": "Dadur Manor",
+    "city": "Dotoguk",
+    "state": "WY",
+    "zip": "02880"
+  },
+  "contact": {
+    "phone": "(355) 998-6079",
+    "servicePhone": "800792874"
+  },
+  "birthday": "1978-11-01T03:33:05.281Z",
+  "ip": "26.180.31.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Sopemec ad ediafa com rut dinorni sira visaz vun niwdujdab ki afofe kabohin vupog gopebmen. Omiazo rijkueb rakiwak ba gojojib leke puhamde ozulel wun watborrul afo itaji uwedagos lo oto. Mijgezaz fiina ica neztagfir lipce tetdiba buzizu tiasa neohman to cih pubactiz saz bilmot tulej. Icovapa tesev zo roino wugo rozolit gonvaw inegeri bafewlu se in buof jekoahe fecirfe ho korki. Oge acnedla kizebihip guzro rohjod ragga segoj mi eg ecumishoc curvorlod gekjahe nu cusek tinujpup. Avto mupfud te wiheawu ro woidwir pam lurkonu futad umoji tihaso ezboujo ratijo.",
+    "bio": "Ma igufo sini unuiz ulapawo pi la jaficifa darrufo is umace kozuvvap binoluno je vusbi belgogaci ibovures ub. Dovar op nob sin bela afbuvu ir rofeve sazofut jen nolmip ka. Fihaponi fadehvis ja fihufbo icsi vetmoc haz rul ag sibzezaji panguhda camneotu."
+  },
+  "apiKey": "8a6a658efa2c477620f54fa21d3927925240f7b7bfff0e63dc16a06ae65c4f51",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
