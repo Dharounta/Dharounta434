@@ -1,0 +1,26 @@
+{
+  "name": "Rosie May",
+  "age": 22,
+  "address": {
+    "street": "Rihni Boulevard",
+    "city": "Etlojo",
+    "state": "DE",
+    "zip": "98591"
+  },
+  "contact": {
+    "phone": "(914) 442-9136",
+    "servicePhone": "800594721"
+  },
+  "birthday": "1993-11-30T15:47:45.025Z",
+  "ip": "214.0.5.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Rorun kuzmizka fofdokevi sildo fo ta danwis unral lepo ulop rajebra gowihzod foida ofadir. Kaj sodve wokuwoj kupcej nublurva timsu fe lajwesu edel nautere ucan fes. Odav lofahi jij fihita mowicwi cevajut kipto edsib owe rujjuim kut sidpit licvi zunecge catsedleg. Taplic ahubo uheku ojoho gad ur afed was dulavpen fi fe ucu rajlo. Id kita tezujufok fanuctu fe lofogba ah casvarkuk jat unikop nakiji aveodjuz holotwah toded.",
+    "bio": "Bejeoni noventaj atedaidu fu ri sot agebel himupiwa zicka pojsir ivoherega ga elaoj vitidve uc cile gemicusih. Nom jek ikuvob ti fak doz ewimemro julrelur upuriuk ju serirum cifofu gi owgeh. Pi zif ihulu temron cadbinca nihjaro wokisar tasa ton sohomol zezduubi besujki ozkobmi zurret ezofoul. Vekbihat covkasros pedwinu akoemte ojlu dudo ijasegha mi rotawat dedvo zaapani gu raksuston far amo ted."
+  },
+  "apiKey": "e5fb1c80d967bbf7b88b3f5254088ccd68b3a034ef6d7d10b6fbcb41a86c22a8",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
