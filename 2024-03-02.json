@@ -1,0 +1,26 @@
+{
+  "name": "Antonio Gilbert",
+  "age": 43,
+  "address": {
+    "street": "Givu Boulevard",
+    "city": "Rimonar",
+    "state": "MT",
+    "zip": "43386"
+  },
+  "contact": {
+    "phone": "(473) 932-2484",
+    "servicePhone": "800644334"
+  },
+  "birthday": "1976-08-04T13:49:44.900Z",
+  "ip": "35.98.39.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Cup majcepe recfib tinapeg lez micidek revsum pekesnab mogolo hatzov obiugfo kan olwik zakpem. Lo jisa bef evegajik lovkauto ze huw joztudofi fiw focoglo fiuzulo bo. Eki piw ahuson kipod ove pubu ikolafi mijvud efevzeg co lecece neta vi. Doj mihaw cublel tugpefap opu cetaw naarobam elco co pok lucukab afhonge dugol moz giftumak otziozi du. Ino kuohajuw belum rofko ziv jezummob vabka covvugmo riwo vepoum higait am tas hihizcek.",
+    "bio": "Masgi vodfohuza to ameacju mer ub baru iji ot fovufuulu vajdo jesgat abki omu anzo. Wuriub asjife nobwacbup mucnokas kutizo atfok lub modivutu na uza lunonje uwewlug ugcid eha ig ze for. Ohihe feeb ismoum guwku kap li tikucrok usauk pog zajgici gos borip azalna fiduf umipukpib ep. Meogipog sopwuvme cugkin jujbojhu zes jujo moh femarse aji ciwati lakpod ezed ajnowgeb emhom gafe ziobeaso von ral."
+  },
+  "apiKey": "9565f3281fd5b4a5a008fa068a2bcbe2ae0eb47d7c96d59c287978e4cb588a52",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
