@@ -1,0 +1,26 @@
+{
+  "name": "Millie Barker",
+  "age": 45,
+  "address": {
+    "street": "Afusa Glen",
+    "city": "Enijebi",
+    "state": "WA",
+    "zip": "86691"
+  },
+  "contact": {
+    "phone": "(481) 518-9146",
+    "servicePhone": "800217553"
+  },
+  "birthday": "1980-02-16T16:28:03.538Z",
+  "ip": "216.95.147.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Sila hif ijegib laod ga zeler emcubhub tupihme guw we madec ki te iwu. Rutmepiv wag ali apaco col eji hawoki li ohakib ripus jici cakokul ezoz pefavu fejego ceoru. Fig ninjupri afouj rebob zisme bas midot nop pewotjib use te ulnu bufzu faribiz dap besit.",
+    "bio": "Cufvecem injipo omo zopalulug lug gam jidasog cagol mesfufvef sesnul nerunu midja fe vetacfe ernikir il avkus. Dedmob hojgito da savuw moc jas gahejzu refocot ezu zongok em cud nivso ca. Puk gihle gob vimuksan bepozus wubsugo hul ifecocugu juvenuh rapdor ciw wuz tauwmuj."
+  },
+  "apiKey": "7e3f5507e05a0f0beee0ffe91fce7aba11eee5908c07b8d19a9808a19b15a51b",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
