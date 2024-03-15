@@ -1,0 +1,26 @@
+{
+  "name": "Franklin Pratt",
+  "age": 61,
+  "address": {
+    "street": "Fiwzi Circle",
+    "city": "Listuhnon",
+    "state": "OK",
+    "zip": "50017"
+  },
+  "contact": {
+    "phone": "(637) 754-4495",
+    "servicePhone": "800198816"
+  },
+  "birthday": "1999-12-31T00:24:33.298Z",
+  "ip": "100.185.85.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Zap saup pem pividuvir uwade urri muzijam pirdo ocwi nih ciset imege hudi dag. Ta davulnol vak odi tijenar se nemeh hu raike ene duwwed la bi ziporho. Kap luzcobju zi peman micotkad gul lincab apoge pagal odriwiru bogugte aknoc jaug.",
+    "bio": "Cog cunam siwecu duta nobu bukgijup arufen johcobip jopgunnej lamofug dutzusren we hiv favas mole. Pa sabognus gu wimhek uka si mage nesec puzab ubuas nifni akpolu fogpa mije onahez ak diwoken buir. Fatfim mutvuswe cu bojjo bicge po talan siihcil ocebeffu epe ekoge ahwo vagfajse fem mekcedo ju dejci ozo. Buzhitac ju ja pic fo ipvub sebilbac rappah izuzil luwtocez epnihup teaddun sav sompe rowjesi."
+  },
+  "apiKey": "b5746ae4a2ae6ff8a44a14d23dec6e626e17df7d1be6d6e577c79ea5cf6cc89c",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
