@@ -1,0 +1,26 @@
+{
+  "name": "Duane Maxwell",
+  "age": 55,
+  "address": {
+    "street": "Rorwur Pike",
+    "city": "Nukufjel",
+    "state": "VT",
+    "zip": "14141"
+  },
+  "contact": {
+    "phone": "(736) 428-2092",
+    "servicePhone": "800556772"
+  },
+  "birthday": "1974-12-09T14:20:08.421Z",
+  "ip": "169.33.208.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Bucan objiroka kaf durakep munnaw baputa nolis hi osicuz kuskum potmufos fiwdi kumtefa rukwapfa didawusen ni. Faknemij ehome keh fi ba ra tuj jel eno ewotu dipopwe idlon rigapiv ku susi. Bopod ca mazo ege mu jil sisake ijeowad kebno zivit zobotze viohopi.",
+    "bio": "Du rosbahva ke enecsu setoz duzevuwa maj al webow oro olkiuga do pelo. La rel wofu niliva foz ra ti upuekubod dikfuf ne nahdev guomeka zezpafud. Hawrumreh gegkehiku to zajlur ettatu zes lum cicu padmo fu avajavnan rubmoj omulov."
+  },
+  "apiKey": "1de15133ba590210ed2dd8bee6a7f80b4560c8a33748da84cd59f6a0f3ce3265",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
