@@ -1,0 +1,26 @@
+{
+  "name": "Andre Gibbs",
+  "age": 32,
+  "address": {
+    "street": "Suwu Heights",
+    "city": "Agconcaw",
+    "state": "OK",
+    "zip": "50867"
+  },
+  "contact": {
+    "phone": "(676) 866-2557",
+    "servicePhone": "800323684"
+  },
+  "birthday": "2003-11-19T19:36:10.062Z",
+  "ip": "163.233.6.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Ijieruvid kusetran jap hakofibug nojronuv pobsol ihuvi pij asovosno wir ge ri tigewmak. Un vuzje ejre nikega mihohez si guh betu awlani befewi puftevut mig nukod buejzuc lek ve. Wupmu jor emgi naah rupo ce reburude tedib jeugsi sa bedovdaz ivrisfe sieg nonjutkot wijibase ko bo.",
+    "bio": "De tuvaoda low vofnehoca dusif omgedab fic sahmes sus ah ni jook vulwel tef vipco hi jabgelno. Ciptanu zesugel kovune hu ci pojkej web sa zaffi vusowoweg atu ve bac. Iv wedofaru kitbozzum cuwvo wevne usebsog go iwacopmu gotajnit ujuup wi keg sogaj rulitbe bihejlir naictaj berne gogeg."
+  },
+  "apiKey": "a2b673386c8628db62c14dbafe9cd4dd3d95bc6e576d6fffab28a7b8c61278cb",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
