@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Beck",
+  "age": 33,
+  "address": {
+    "street": "Vila Grove",
+    "city": "Zopolu",
+    "state": "MN",
+    "zip": "30643"
+  },
+  "contact": {
+    "phone": "(714) 860-2164",
+    "servicePhone": "800911937"
+  },
+  "birthday": "2000-08-19T06:22:16.188Z",
+  "ip": "84.72.191.199",
+  "foo": "bar",
+  "profile": {
+    "about": "Borboz eh re ucomesam nuca pauk pajosid godnuiwi wo niev nojiupi jumji nerse lat. Fukrolih gaf rewome ziz ore ed budap ufejevcu weisa ziiru pa uf jo kim si viceg dip saaw. Wukaju dahviiz gugdajubu giwugo vemkopnom ceznu deja fuwhemu fer uhfadu cu dezoho sa soiw agdo zufuepi wiagziw vipu. Wigil gola pogma jabion ubeucuul herrucal giwor ezeb fan toak nicgishum zawag vukaige itotojboh wo jenuna. Gidlisiz vo fibbomkib enonohol kanuzked liba jude kot vidaug epeehajad edajin bel ugne henic nosada kus. Hah sejolu ozietsi egama cuvi nivucali ocwa mukac nubkasi mohcu enma esigija.",
+    "bio": "Giwiduc ravreul ma ukezapa gohsev osraeti keop im gi po fa maj vo ugifijuh cogo maes nefa. Mihuzrup huwfahas jigoze huwtirle me pa vufurtis hobnel wunbo up su muwhitus hebem jekle apa. Sirzugtu rolibbov isuja pecvo tuh mebrolos ubwocpo zef viwo najse kar jejzod mozcew eri hoeb napmivobo. Nuz nezuhwe babgem atgicvoj polgow mahoude mudi ji ollauf eki colu di."
+  },
+  "apiKey": "78538b6262fd1945638c157ec8f7c8cd07bf14955c9db36e3f025684d25b0de9",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
