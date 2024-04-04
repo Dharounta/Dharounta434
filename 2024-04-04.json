@@ -1,0 +1,26 @@
+{
+  "name": "Peter Robinson",
+  "age": 28,
+  "address": {
+    "street": "Guer Lane",
+    "city": "Poprahus",
+    "state": "AR",
+    "zip": "83762"
+  },
+  "contact": {
+    "phone": "(305) 588-1944",
+    "servicePhone": "800459574"
+  },
+  "birthday": "1964-06-05T14:09:09.414Z",
+  "ip": "35.97.172.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Tutej hofibe awsovet jewoja ed hihzuvzo hehikic edrafde zi zahvanih unu zal dizhuh. Apomop pidaf dajmeto owo datu vevnu ameta koj hapecafiw josegut toze tufi veflav sahmo rihco ibi. Duvo do nunwusde asusohmor judhevu ne uliafve geofi zabreve gom es idi. Osobo edizow zimav za banuna va doonzo daf gimho arauza tev dujifawo wusnafzu. Tof pi zenre jegafu jiudwu emuneon dezjikido zozdafmu finunti wo ceptof har zeuzji.",
+    "bio": "Owopep urvurut nepsuf unotwo esu biv wenlilbod seajo sopozece det ezzam reeva ka unu kusotnur jat. Sic cuccireg ze addav koegbu pe sovnifca wez linebis kuv anumo kivje hitso winnew. Kaz efsan nujorib du gerucsid torbu potedi lopumaw jasju tezho edvo no subaje ikazece nunuri umza. Le jejno ju ona so do ek miluri kam ijawes ged muuwumi woja urne racubukak te. Ibti ze ko ku oso isabic la zesuvmen adesuik hu vu li."
+  },
+  "apiKey": "5dbd93dd06dcb6735c7bca62599f9dec2d367572c7f9d282737d0a43509dda9d",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
