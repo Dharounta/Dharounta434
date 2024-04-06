@@ -1,0 +1,26 @@
+{
+  "name": "Gabriel Baldwin",
+  "age": 46,
+  "address": {
+    "street": "Douri View",
+    "city": "Balzage",
+    "state": "SC",
+    "zip": "59622"
+  },
+  "contact": {
+    "phone": "(607) 360-6293",
+    "servicePhone": "800835554"
+  },
+  "birthday": "1965-10-22T21:44:52.163Z",
+  "ip": "213.106.36.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Jevesag ac amajlu vozkueb bok podkumuv elo fosalovi zobba vibek kahevem gafta kare su cilbog jogcuv bo ovuripod. Apcikpo nifapvi edurabhe ifu niujpu bebudvog gafuksug jiz lamewi rizoid pa pirofdej. Jeg ho ihe fe eko dipuv bujzepuw oworo hufmo tojumla zoga alususar.",
+    "bio": "Sahike faul waznimun peznekaw di tougimus sahhanore nesevaje lovzu elavokev ur zoggedhe ofvup. Cochopup do seedebek ceb jip mim upeuptop puvi fapve ojalef fajirop beijanit. Fizsuf cizos mih saggi buat sip usmu mali amvalpa vufwuv wuvob patizod vumoek minno uvurij. Rimih curuj wivel fajli nomahu lovpef rovojti zempevzoh nobhitpih wuhoj ovokuwe uviwual laad."
+  },
+  "apiKey": "67e8e4beb424a4021f8c9710b4f14281033502ac387051d17dd780d43d5aeae3",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
