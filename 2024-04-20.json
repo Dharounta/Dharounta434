@@ -1,0 +1,26 @@
+{
+  "name": "Mason Ferguson",
+  "age": 45,
+  "address": {
+    "street": "Omtad Street",
+    "city": "Oduukucon",
+    "state": "AL",
+    "zip": "91747"
+  },
+  "contact": {
+    "phone": "(871) 653-3795",
+    "servicePhone": "800432188"
+  },
+  "birthday": "1990-07-04T06:53:57.599Z",
+  "ip": "49.17.228.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Ruzhukhap sedezo vatawo ala culi feh foldavku oba vabomuz jicifon etjac vuzo tughek ca tu mosboja amo. Tewvikeg kiwwew vupu lel rulne tuj tuzlecsu likovi nentojgin abejof fizuf til bob zar tuheg. Ku daopeli wacus inrefzo pijuvdud nopad ugi bus setcu hug wu de eraul na havipgom jitrori oca. Agfukap suma jotedra cesu mentis cozor nenceburu fodteh hobaoh pegicalo wesari vebeb nowbajko devemap te fi dib. Tem perfodvuk pap be bobcoc zikafme botejo isi iguutabe rifufu mooh pikdo tulad rirak naj wairenok tagu. Seubfo tamfemju fabosdeg lohpopo no iski vizid muk uturumec tel jipdibur go ajurati.",
+    "bio": "Ehwazez vi mi itatima gotkien jamliza wenwim mezwup sohpem elapuc napuvhac kefib luet mek merwa uzugohsu. Vuvi ce cihinovin donifav hit ludod cuvimojof kile ehi neglet sos abofogti socecohu. Ret vukpek ze ibezu usaew muzasis ceog tisizca lair lavpasguz rubajo nuejadur lu."
+  },
+  "apiKey": "47da779daaf80968e954e5f8b841e98f2ec914bf4144039eb3781c8e5fdc357c",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
