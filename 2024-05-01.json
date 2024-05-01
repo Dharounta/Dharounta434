@@ -1,0 +1,26 @@
+{
+  "name": "Olga French",
+  "age": 61,
+  "address": {
+    "street": "Ritu Mill",
+    "city": "Tojila",
+    "state": "VT",
+    "zip": "74328"
+  },
+  "contact": {
+    "phone": "(335) 920-5887",
+    "servicePhone": "800495513"
+  },
+  "birthday": "1981-11-14T20:57:20.028Z",
+  "ip": "90.69.153.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Diocaze hoj isiutkuk zefocli sohomja vegi revolcu mo ge maracojuf mesabja monzujlic datun fa. Dof sile ihca wicvam efadinon ite virto hapzojma oridudve mopbel ja ga ce jo navpam. Zamivo idometu pur ubagi ahjo nafoli kihbabce bakbi ziuta pow folec meupo.",
+    "bio": "Edopeepi manka itakwi vuvce fi dih osovepic ej gogak monazvec voppe nicibfe iv. Kozfaroh ji se pikmidci cazo dec nebduhme mimodpaf am wifusgeg cijzihle buaha dopeme ruf. Zu nined bopoevo ibolege huzik cotharde ewe teepre vok itvub zapafcot mamzo fis fowwal sonedki ho. As veavuli hacpo ran cehuuru da co japov rifis he vu zihsamju vuw jowa temicna vo sancarmap."
+  },
+  "apiKey": "aa37e61cdb137b586b033fca7a4e568601e18f57af3819c170f08a19eed8493b",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
